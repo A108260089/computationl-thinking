@@ -1,2 +1,2 @@
-# computationl-thinking
+# computational-thinking
 Course Homework
